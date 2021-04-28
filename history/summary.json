@@ -25,19 +25,19 @@
     "url": "https://drgoldsby.vet",
     "icon": "https://favicons.githubusercontent.com/drgoldsby.vet",
     "slug": "my-wifes-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 729,
-    "timeWeek": 220,
-    "timeMonth": 167,
+    "timeDay": 410,
+    "timeWeek": 204,
+    "timeMonth": 164,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2021-04-28": 0,
+      "2021-04-28": 4,
       "2021-02-14": 34
     }
   }
